@@ -1,1 +1,1 @@
-include ':viewpager', ':youkumeau', ':youkulibrary', ':spinnerlibrary', ':testspinner'
+include ':viewpager', ':youkumeau', ':youkulibrary', ':spinnerlibrary', ':testspinner', ':toggledemo', ':togglelibrary'
