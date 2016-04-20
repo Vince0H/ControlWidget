@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ControlWidget.iml" filepath="$PROJECT_DIR$/ControlWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/spinnerlibrary/spinnerlibrary.iml" filepath="$PROJECT_DIR$/spinnerlibrary/spinnerlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/testspinner/testspinner.iml" filepath="$PROJECT_DIR$/testspinner/testspinner.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youkulibrary/youkulibrary.iml" filepath="$PROJECT_DIR$/youkulibrary/youkulibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/youkumeau/youkumeau.iml" filepath="$PROJECT_DIR$/youkumeau/youkumeau.iml" />
+    </modules>
+  </component>
+</project>

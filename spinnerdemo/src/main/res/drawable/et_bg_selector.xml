@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <!--焦点 红色边框-->
+    <item android:drawable="@drawable/red_bg" android:state_focused="true"></item>
+
+    <!--没有焦点 黑色边框-->
+    <item android:drawable="@drawable/back_bg"></item>
+</selector>

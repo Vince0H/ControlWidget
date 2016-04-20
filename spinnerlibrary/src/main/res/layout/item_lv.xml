@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="3dip"
+                android:layout_marginTop="3dip"
+                android:gravity="center"
+                android:paddingLeft="20dip"
+                android:paddingRight="20dip">
+
+    <!-- 头像 -->
+
+    <ImageView
+        android:id="@+id/iv_user"
+        android:layout_width="30dip"
+        android:layout_height="30dip"
+        android:scaleType="fitXY"
+        android:src="@drawable/user"/>
+    <!-- 号码 -->
+
+    <TextView
+        android:id="@+id/tv_number"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="20dip"
+        android:layout_toRightOf="@id/iv_user"
+        android:text="129321432"/>
+
+    <ImageView
+        android:id="@+id/iv_delete"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="30dip"
+        android:layout_marginRight="30dip"
+        android:src="@drawable/delete">
+    </ImageView>
+
+</RelativeLayout>

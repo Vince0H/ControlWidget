@@ -1,0 +1,61 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+                xmlns:tools="http://schemas.android.com/tools"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                tools:context=".MainActivity" >
+
+    <RelativeLayout
+        android:layout_width="fill_parent"
+        android:layout_height="180dp" >
+
+        <!-- ViewPager组件的展示 -->
+
+        <android.support.v4.view.ViewPager
+            android:id="@+id/vp_test"
+            android:layout_width="fill_parent"
+            android:layout_height="180dp" >
+        </android.support.v4.view.ViewPager>
+        <!-- 描述信息和点的显示 -->
+
+        <LinearLayout
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="#33000000"
+            android:gravity="center_horizontal"
+            android:orientation="vertical" >
+
+            <!-- 图片的描述信息 -->
+
+            <TextView
+                android:textColor="#ffffff"
+                android:id="@+id/tv_desc"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="3dip"
+                android:text="图片0的描述信息" />
+
+            <!-- 点的容器 -->
+
+            <LinearLayout
+                android:id="@+id/ll_points"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="5dip"
+                android:orientation="horizontal" >
+
+                <!--   <View
+                      android:layout_width="10dip"
+                      android:layout_height="10dip"
+                      android:background="@drawable/red_point" />
+
+                  <View
+                      android:layout_marginLeft="10dip"
+                      android:layout_width="10dip"
+                      android:layout_height="10dip"
+                      android:background="@drawable/gray_point" /> -->
+            </LinearLayout>
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>
