@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+              android:orientation="vertical"
+              android:layout_width="match_parent"
+              android:layout_height="match_parent">
+
+    <the.vince.slidingmenu.SlidingMenuView
+        android:id="@+id/smv_test"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <!--子控件-->
+        <!--左侧-->
+        <include layout="@layout/left"></include>
+        <!--内容-->
+        <include layout="@layout/content"></include>
+
+    </the.vince.slidingmenu.SlidingMenuView>
+</LinearLayout>
