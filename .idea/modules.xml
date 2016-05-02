@@ -3,11 +3,14 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ControlWidget.iml" filepath="$PROJECT_DIR$/ControlWidget.iml" />
+      <module fileurl="file://$PROJECT_DIR$/slidingmenu/slidingmenu.iml" filepath="$PROJECT_DIR$/slidingmenu/slidingmenu.iml" />
       <module fileurl="file://$PROJECT_DIR$/spinnerlibrary/spinnerlibrary.iml" filepath="$PROJECT_DIR$/spinnerlibrary/spinnerlibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/testspinner/testspinner.iml" filepath="$PROJECT_DIR$/testspinner/testspinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/toggledemo/toggledemo.iml" filepath="$PROJECT_DIR$/toggledemo/toggledemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/togglelibrary/togglelibrary.iml" filepath="$PROJECT_DIR$/togglelibrary/togglelibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpaperlibrary/viewpaperlibrary.iml" filepath="$PROJECT_DIR$/viewpaperlibrary/viewpaperlibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wclflipdemo/wclflipdemo.iml" filepath="$PROJECT_DIR$/wclflipdemo/wclflipdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/youkulibrary/youkulibrary.iml" filepath="$PROJECT_DIR$/youkulibrary/youkulibrary.iml" />
       <module fileurl="file://$PROJECT_DIR$/youkumeau/youkumeau.iml" filepath="$PROJECT_DIR$/youkumeau/youkumeau.iml" />
     </modules>
